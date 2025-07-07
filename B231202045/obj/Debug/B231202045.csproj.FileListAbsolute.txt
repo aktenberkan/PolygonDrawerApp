@@ -1,0 +1,10 @@
+C:\Users\berkan\source\repos\B231202045\B231202045\bin\Debug\B231202045.exe.config
+C:\Users\berkan\source\repos\B231202045\B231202045\bin\Debug\B231202045.exe
+C:\Users\berkan\source\repos\B231202045\B231202045\bin\Debug\B231202045.pdb
+C:\Users\berkan\source\repos\B231202045\B231202045\obj\Debug\B231202045.csproj.AssemblyReference.cache
+C:\Users\berkan\source\repos\B231202045\B231202045\obj\Debug\B231202045.Form1.resources
+C:\Users\berkan\source\repos\B231202045\B231202045\obj\Debug\B231202045.Properties.Resources.resources
+C:\Users\berkan\source\repos\B231202045\B231202045\obj\Debug\B231202045.csproj.GenerateResource.cache
+C:\Users\berkan\source\repos\B231202045\B231202045\obj\Debug\B231202045.csproj.CoreCompileInputs.cache
+C:\Users\berkan\source\repos\B231202045\B231202045\obj\Debug\B231202045.exe
+C:\Users\berkan\source\repos\B231202045\B231202045\obj\Debug\B231202045.pdb
